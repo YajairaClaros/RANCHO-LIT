@@ -1,2 +1,2 @@
 # RANCHO-LIT
-Una aplicación móvil que le ofrezca al usuario diversos servicios como  brindar un espacio para que las personas se relajen y disfruten del entorno natural de la playa. 
+Código de el sitio web, para brindar a las personas un espacio en donde se puedan relajar y disfruten del entorno natural de la playa. 
