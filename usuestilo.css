@@ -50,7 +50,6 @@
 }
 
 
-
 .wrapper{
     width: 420px;
     background: transparent;
@@ -60,8 +59,8 @@
     color: wheat;
     border-radius: 10px;
     padding: 30px 40px;
-
-
+    margin: 0 auto;
+    margin-left: 50px;
 }
 .wrapper h1{
     font-size: 36px;
@@ -130,4 +129,38 @@ margin: -15px 0 15px;
 }
 .register-link p a:hover{
     text-decoration: underline;
+}
+
+.btn-regresar {
+    width: 200px;
+    padding: 15px 60px;
+    text-align: center;
+    margin-left: 55%;
+    margin-top: -20%;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid wheat;
+    background: transparent;
+    color: whitesmoke;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    text-decoration: none;
+}
+.btn-regresar span{
+    background: #6D4C41;
+    height: 100%;
+    width: 0;
+    border-radius: 25px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 0.5s;
+}
+.btn-regresar:hover span{
+    width: 100%;
+}
+.btn-regresar:hover {
+    border: none;
 }
