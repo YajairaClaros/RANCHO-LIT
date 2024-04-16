@@ -1,0 +1,99 @@
+body {
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.158), rgba(0,0,0,0.75)),url(prodback.jpg);
+    background-size: cover; /* Para asegurarte de que la imagen cubra todo el fondo */
+    background-position: center; /* Para centrar la imagen */
+    /* Aquí puedes agregar más estilos si lo deseas */
+}
+
+.image 
+{
+    margin-left: 200px;
+    margin-top: 14%;
+}
+
+.image img {
+    border-radius: 1rem;
+    width: 300px;
+}
+
+.info 
+{
+    margin-left: 550px;
+    margin-top: -33%;
+}
+
+.info h2 
+{
+    color: antiquewhite;
+    font-size: 3rem;
+    line-height: -.5rem;
+}
+
+.info p 
+{
+    color: wheat;
+    font-family: 'Century Gothic';
+}
+
+.precio 
+{
+    color: rgb(252, 252, 252);
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.explica 
+{
+    font-size: 20px;
+    backdrop-filter: blur(20px);
+    padding: 30px 40px;
+    border-radius: 10px;
+    border: 2px solid #333;
+    margin-right: 40px;
+}
+
+select 
+{
+    font-size: 15px;
+}
+
+.btn-box button 
+{
+    color: antiquewhite;
+    font-size: 18px;
+    padding: 8px 25px;
+    border-radius: 1rem;
+    outline: none;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.btn-box button:hover 
+{
+    font-weight: lighter;
+    background-color: #6D4C41;
+    transition: .3s;
+}
+
+.btn-catalogo 
+{
+    width: 200px;
+    padding: 10px 50px;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid black;
+    background: transparent;
+    color: antiquewhite;
+    cursor: pointer;
+    position: relative;
+    text-decoration: none;
+    line-height: 170px;
+}
+
+.btn-catalogo:hover 
+{
+    font-weight: lighter;
+    background-color:#6D4C41;
+    transition: .3s;
+}
