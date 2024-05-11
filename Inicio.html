@@ -2,8 +2,10 @@
 <html lang="en" xml:lang="en">
 
     <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>RANCHO LIT</title>
-        <link rel="stylesheet" href="inicio.css">
+        <link rel="stylesheet" href="estilos/inicio.css">
         <link rel="icon" type="image/png" href="logo.png">
     </head>
     <body>
