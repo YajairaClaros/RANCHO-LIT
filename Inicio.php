@@ -9,7 +9,7 @@
     <body>
         <div class="banner">
             <div class="navbar">
-                <img src="logoo.png" class="logo" alt="Logo">
+                <img src="logoo.png" class="logo" alt="Logo" >
                 <ul>
                     <li><a href="Inicio.html">Inicio</a></li>
                     <li><a href="#">Servicios</a></li>
