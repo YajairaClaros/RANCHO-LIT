@@ -12,11 +12,11 @@
             <div class="navbar">
                 <img src="logoo.png" class="logo" alt="Logo">
                 <ul>
-                    <li><a href="Inicio.html">Inicio</a></li>
-                    <li><a href="#">Servicios</a></li>
-                    <li><a href="#">Menú</a></li>
-                    <li><a href="CatalogoDePlatillos.html">Platillos</a></li>
-                    <li><a href="usuario.html">Iniciar Sesión</a></li>
+                    <li><a href="Inicio.php">Inicio</a></li>
+                    <li><a href="servicios.php">Servicios</a></li>
+                    <li><a href="menu.php">Menú</a></li>
+                    <li><a href="CatalogoDePlatillos.php">Platillos</a></li>
+                    <li><a href="usuario.php">Iniciar Sesión</a></li>
                 </ul>
 
         </div>
@@ -46,7 +46,7 @@
         </div>
 
         <div class="btnregresar">
-            <p><a class="btn-regresar" href="Inicio.html"><span></span>REGRESAR AL INICIO</a></p>
+            <p><a class="btn-regresar" href="Inicio.php"><span></span>REGRESAR AL INICIO</a></p>
         </div>
 
     </body>

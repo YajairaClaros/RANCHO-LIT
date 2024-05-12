@@ -13,11 +13,11 @@
             <div class="navbar">
                 <img src="logoo.png" class="logo" alt="Logo">
                 <ul>
-                    <li><a href="Inicio.html">Inicio</a></li>
-                    <li><a href="#">Servicios</a></li>
-                    <li><a href="menu.html">Menú</a></li>
-                    <li><a href="CatalogoDePlatillos.html">Platillos</a></li>
-                    <li><a href="usuario.html">Iniciar Sesión</a></li>
+                    <li><a href="Inicio.php">Inicio</a></li>
+                    <li><a href="servicios.php">Servicios</a></li>
+                    <li><a href="menu.php">Menú</a></li>
+                    <li><a href="CatalogoDePlatillos.php">Platillos</a></li>
+                    <li><a href="usuario.php">Iniciar Sesión</a></li>
                 </ul>
 
         </div>
@@ -29,7 +29,7 @@
                     <h2>Platillos</h2>
                     <div class="box">
                         <div id="image">
-                            <a href="CatalogoDePlatillos.html">
+                            <a href="CatalogoDePlatillos.php">
                                 <img src="menu.jpg">
                             </a>
                         </div>

@@ -41,7 +41,7 @@
             <button>Revisar</button>
             <button>Agrega los ingredientes</button>
         </div>
-        <p><a class="btn-catalogo" href="CatalogoDePlatillos.html"><span></span>VER OTROS &raquo</a></p>
+        <p><a class="btn-catalogo" href="CatalogoDePlatillos.php"><span></span>VER OTROS &raquo</a></p>
     </div>
     </body>
 </html>
