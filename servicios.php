@@ -23,6 +23,21 @@
                 </ul>
         </div>
 
+        <div class="content">
+                <h1>Nuestros Servicios</h1>
+                <p>☑ ALOJAMIENTO <br>
+                ☑ Tour del RANCHO <br>
+                ☑ Senderismo <br>
+                ☑ Juegos deportivos <br>
+                ☑ Comodidad 🏖️
+                </p>
+                <div>
+                    <button type="button"><span></span>EXPLORA</button>
+                    <button type="button"><span></span>INICIO</button>
+                </div>
+    
+            </div>
+
     
     </body>
 </html>

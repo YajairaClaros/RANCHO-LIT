@@ -45,7 +45,7 @@
                 <h2>Bebidas</h2>
                 <div class="box">
                     <div id="image">
-                        <a href="#">
+                        <a href="CatalogoDeBebidas.php">
                             <img src="bebidas.jpg">
                         </a>
                     </div>

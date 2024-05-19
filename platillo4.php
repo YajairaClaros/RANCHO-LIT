@@ -42,15 +42,7 @@
            <br>- Frutos rojos adicionales (opcional).
         </p>
         <br />
-    
-        <div class="btn-box">
-            <br />
-            <br />
-            <br />
-            <br />
-            <button>Revisar</button>
-            <button>Agrega los ingredientes</button>
-        </div>
+        
         <p><a class="btn-catalogo" href="CatalogoDePlatillos.php"><span></span>VER OTROS &raquo</a></p>
     </div>
     </body>
