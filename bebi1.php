@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" xml:lang="en">
     <head>
-        <title> PLATILLO</title>
+        <title> BEBIDAS</title>
         <link rel="stylesheet" href="PlatillosEstilo.css">
         <link rel="icon" type="image/png" href="logo.png">
     </head>

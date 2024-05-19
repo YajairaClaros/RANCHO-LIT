@@ -73,7 +73,7 @@
                     <div class="image">
                         <img src="smir.jpg"/>
                         <div class="icons">
-                            <a href="bebi4.php" class="see-btn">Ver ingredientes &raquo</a>
+                            <a href="bebi4.php" class="see-btn">Ver opciones &raquo</a>
                         </div>
                     </div>
                     <div class="content">

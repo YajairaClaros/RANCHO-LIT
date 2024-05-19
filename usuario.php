@@ -2,7 +2,7 @@
 <html lang="en" xml:lang="en">
 
     <head>
-        <title>RANCHO LIT</title>
+        <title>Inicia Sesion</title>
         <link rel="stylesheet" href="usuestilo.css">
         <link rel="icon" type="image/png" href="logo.png">
     </head>

@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>RANCHO LIT</title>
+        <title>Servicios</title>
         <link rel="stylesheet" href="usuestilo.css">
         <link rel="icon" type="image/png" href="logo.png">
     </head>
