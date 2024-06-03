@@ -28,7 +28,7 @@
         <div class = "form-container">
             <h2>Contactanos</h2>
             <p>
-                <a href="https://forms.gle/t4J64YwXArm21eus7" > Comentanos tu duda.</a>
+                <a href="https://forms.gle/t4J64YwXArm21eus7" class="estilo-link"> Comentanos tu duda.</a>
             </p>
 
             <form method="post" autocomplete="off">

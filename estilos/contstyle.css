@@ -80,6 +80,19 @@ body{
     margin-bottom: 30px;
 }
 
+/* Estilo para el enlace */
+.estilo-link {
+    color: bisque; /* Color del enlace */
+    text-decoration: none; /* Sin subrayado */
+    font-weight: bold; /* Negrita */
+}
+
+/* Estilo para el enlace cuando el ratón está sobre él */
+.estilo-link:hover {
+    color: #2980b9; /* Color del enlace al pasar el ratón */
+    text-decoration: underline; /* Subrayado al pasar el ratón */
+}
+
 form{
     padding: 50px;
     background: transparent;
