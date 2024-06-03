@@ -18,6 +18,7 @@
                     <li><a href="menu.php">Menú</a></li>
                     <li><a href="CatalogoDePlatillos.php">Platillos</a></li>
                     <li><a href="usuario.php">Iniciar Sesión</a></li>
+                    <li><a href="contacto.php">Contactanos</a></li>
                 </ul>
 
         </div>
