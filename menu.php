@@ -13,7 +13,7 @@
             <div class="navbar">
                 <img src="logoo.png" class="logo" alt="Logo">
                 <ul>
-                    <li><a href="Inicio.php">Inicio</a></li>
+                    <li><a href="index.php">Inicio</a></li>
                     <li><a href="servicios.php">Servicios</a></li>
                     <li><a href="menu.php">Menú</a></li>
                     <li><a href="CatalogoDePlatillos.php">Platillos</a></li>
